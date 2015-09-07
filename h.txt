@@ -1,23 +1,4 @@
-[33mcommit f924e42779a4dfefc5ef9e417f4883c654a69353[m
-Author: Gerd Gesell <gg@nixis.ch>
-Date:   Wed Sep 2 19:51:49 2015 +0200
-
-    Wiese war das leer
-    kjlöjköljk
-
-[33mcommit 3410f0ebff490e02df308e5daad60af678600901[m
-Author: Gerd Gesell <gg@nixis.ch>
-Date:   Wed Sep 2 17:34:38 2015 +0200
-
-    Nachtrag mit -a
-
-[33mcommit 19730b94ef87de346edacbae9fdf255a92023b17[m
-Author: Gerd Gesell <gg@nixis.ch>
-Date:   Wed Sep 2 17:26:24 2015 +0200
-
-    Verworrene Änderungen
-
-[33mcommit 6bda50db75f4a3d5adeaacbaf41256aa50e9ef2a[m
+﻿[33mcommit 6bda50db75f4a3d5adeaacbaf41256aa50e9ef2a[m
 Author: gergessec <gergessec@hotmail.com>
 Date:   Mon Aug 31 23:00:29 2015 +0200
 
