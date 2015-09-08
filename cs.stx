@@ -16,22 +16,12 @@
 
 #KEYWORD=Reserved words
 abstract
-as
-base
-bool
-break
-byte
-case
-catch
-char
-checked
-class
-const
-continue
-decimal
-default
-delegate
-do
+
+
+Hier füge ich einen Text ein
+
+
+
 double
 else
 enum
