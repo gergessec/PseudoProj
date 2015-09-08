@@ -4,7 +4,9 @@
 	"WindowY" : "163",
 	"Renderer" : {
 		"ColourMode" : "0",
-		"DisplayModes" : [],
+		"DisplayModes" : [
+			"1"
+		],
 		"RenderModes" : [
 			"3f380",
 			"ff00f270",
