@@ -1,7 +1,7 @@
 {
 	"InstallCheck" : true,
-	"WindowX" : "202",
-	"WindowY" : "163",
+	"WindowX" : "1d6",
+	"WindowY" : "130",
 	"Renderer" : {
 		"ColourMode" : "0",
 		"DisplayModes" : [
