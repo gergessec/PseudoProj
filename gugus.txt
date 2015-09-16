@@ -5,5 +5,9 @@ gugus blablublo
 haha
 sadsad
 
+<<<<<<< HEAD
 
 wott auuuuu hei!!!
+=======
+wett heiii!!!
+>>>>>>> aeebe752451b1805188a80fca7af67e4cdb5743b
